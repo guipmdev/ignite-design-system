@@ -13,6 +13,7 @@
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.19.3",
+    "@mdx-js/react": "^1.6.22",
     "@storybook/addon-actions": "^6.5.12",
     "@storybook/addon-essentials": "^6.5.12",
     "@storybook/addon-interactions": "^6.5.12",
@@ -25,9 +26,11 @@
     "vite": "^3.1.4"
   },
   "dependencies": {
+    "@ignite-ui/eslint-config": "*",
+    "@ignite-ui/tsconfig-config": "*",
     "@ignite-ui/react": "*",
     "@ignite-ui/tokens": "*",
-    "@ignite-ui/eslint-config": "*",
+    "polished": "^4.2.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   }
