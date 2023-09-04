@@ -2,7 +2,9 @@
   "name": "@ignite-ui/tokens",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsup src/index.ts --format esm,cjs --dts",
@@ -10,8 +12,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
+    "@ignite-ui/ts-config": "*",
     "tsup": "^7.2.0",
     "typescript": "^5.1.6"
   }
