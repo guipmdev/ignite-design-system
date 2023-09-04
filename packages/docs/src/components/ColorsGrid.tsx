@@ -9,8 +9,9 @@ export function ColorsGrid() {
           style={{
             display: 'flex',
             justifyContent: 'space-between',
-            fontFamily: 'monospace',
+
             color: getContrast(color, '#ffffff') < 3.5 ? '#000000' : '#ffffff',
+            fontFamily: 'monospace',
           }}
         >
           <strong>${key}</strong>
