@@ -91,7 +91,13 @@
 
 ## 📍 Overview
 
+The Ignite Design System project is a library of reusable UI components and style libraries for creating applications that use React. It provides elements such as boxes, headers, buttons, input fields, checkboxes and multi-step forms, among others.
+
+The project is designed to simplify the implementation of common user interface elements while maintaining customizable styling options. By providing a comprehensive set of pre-built elements and design tokens, it allows developers to create consistent and visually appealing user interfaces more efficiently.
+
 ## ✨ Features
+
+🧩
 
 ## 🤖 Demo
 

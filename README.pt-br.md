@@ -91,7 +91,19 @@
 
 ## 📍 Visão geral
 
+O projeto Ignite Design System é uma biblioteca de componentes de IU reutilizáveis e bibliotecas de estilo para a criação de aplicações que utilizam _React_. Ela fornece elementos como caixas, cabeçalhos, botões, campos de entrada, caixas de seleção e formulários de várias etapas, entre outros.
+
+O projeto tem como objetivo simplificar a implementação de elementos comuns da interface do usuário e, ao mesmo tempo, manter opções de estilo personalizáveis. Ao fornecer um conjunto abrangente de elementos pré-construídos e tokens de design, ele permite que os desenvolvedores criem interfaces de usuário consistentes e visualmente atraentes com mais eficiência.
+
 ## ✨ Funcionalidades
+
+🧩 **Components ready to use** and also customizable
+
+🖌 **Color tokens** available for import
+
+📄 **Documentation** to guide use
+
+⚙ Built on **TypeScript**
 
 ## 🤖 Demo
 
