@@ -107,6 +107,8 @@ O projeto tem como objetivo simplificar a implementação de elementos comuns da
 
 ## 🤖 Demo
 
+https://github.com/guipmdev/ignite-design-system/assets/136738335/44b85ba8-3809-466b-bc75-4d24b82b1321
+
 ## 🎨 Layout
 
 O layout da aplicação/componentes foi projetado pela **Rocketseat** e está disponível no [Figma](<https://www.figma.com/file/5NSfvvfsVxKatf19vsoshN/Ignite-Call-(Community)>).
