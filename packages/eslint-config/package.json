@@ -1,6 +1,6 @@
 {
   "name": "@guipmdev-ignite-ui/eslint-config",
-  "description": "",
+  "description": "ESLint configuration for the Ignite UI design system",
   "main": "index.js",
   "private": true,
   "devDependencies": {

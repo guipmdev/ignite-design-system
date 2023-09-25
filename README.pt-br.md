@@ -97,13 +97,13 @@ O projeto tem como objetivo simplificar a implementação de elementos comuns da
 
 ## ✨ Funcionalidades
 
-🧩 **Components ready to use** and also customizable
+🧩 **Componentes prontos para uso** e também customizáveis
 
-🖌 **Color tokens** available for import
+🖌 **Tokens de cores** disponíveis para importação
 
-📄 **Documentation** to guide use
+📄 **Documentação** para auxiliar na utilização
 
-⚙ Built on **TypeScript**
+⚙ Construído em **TypeScript**
 
 ## 🤖 Demo
 

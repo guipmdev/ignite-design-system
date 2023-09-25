@@ -1,7 +1,13 @@
 {
   "name": "@guipmdev-ignite-ui/tokens",
-  "description": "",
-  "keywords": [],
+  "description": "Design tokens for consistent and beautiful user interfaces",
+  "keywords": [
+    "typescript",
+    "design-system-tokens",
+    "stitches",
+    "rocketseat",
+    "radix-ui"
+  ],
   "version": "1.1.0",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",

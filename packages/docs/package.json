@@ -1,6 +1,6 @@
 {
   "name": "@guipmdev-ignite-ui/docs",
-  "description": "",
+  "description": "Documentation for Ignite UI design system",
   "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",

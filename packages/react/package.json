@@ -1,7 +1,14 @@
 {
   "name": "@guipmdev-ignite-ui/react",
-  "description": "",
-  "keywords": [],
+  "description": "Visually appealing and customizable UI component library for React-based apps",
+  "keywords": [
+    "react",
+    "typescript",
+    "design-system",
+    "stitches",
+    "rocketseat",
+    "radix-ui"
+  ],
   "version": "2.0.1",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",

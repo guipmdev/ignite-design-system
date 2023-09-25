@@ -1,6 +1,6 @@
 {
   "name": "@guipmdev-ignite-ui/ts-config",
-  "description": "",
+  "description": "TypeScript configuration for Ignite UI design system",
   "private": true,
   "repository": {
     "type": "git",
