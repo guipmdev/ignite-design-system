@@ -1,17 +1,13 @@
 {
   "name": "@guipmdev-ignite-ui/docs",
-  "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "start-storybook -p 6006",
     "deploy-storybook": "storybook-to-ghpages",
     "build": "build-storybook"
   },
-  "keywords": [],
-  "author": "",
-  "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.19.3",
     "@mdx-js/react": "^1.6.22",
@@ -37,5 +33,19 @@
     "polished": "^4.2.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guipmdev/ignite-design-system.git"
+  },
+  "bugs": {
+    "url": "https://github.com/guipmdev/ignite-design-system/issues"
+  },
+  "author": {
+    "name": "Guilherme Preveda Milék",
+    "email": "guipmdev@gmail.com",
+    "url": "https://guipm.dev/"
+  },
+  "license": "MIT",
+  "homepage": "https://guipmdev.github.io/ignite-design-system/"
 }

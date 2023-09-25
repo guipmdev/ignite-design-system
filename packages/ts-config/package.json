@@ -1,6 +1,19 @@
 {
   "name": "@guipmdev-ignite-ui/ts-config",
-  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guipmdev/ignite-design-system.git"
+  },
+  "bugs": {
+    "url": "https://github.com/guipmdev/ignite-design-system/issues"
+  },
+  "author": {
+    "name": "Guilherme Preveda Milék",
+    "email": "guipmdev@gmail.com",
+    "url": "https://guipm.dev/"
+  },
   "license": "MIT",
-  "private": true
+  "homepage": "https://guipmdev.github.io/ignite-design-system/"
 }

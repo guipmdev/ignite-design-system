@@ -1,7 +1,8 @@
 {
   "name": "@guipmdev-ignite-ui/tokens",
-  "version": "1.1.0",
   "description": "",
+  "keywords": [],
+  "version": "1.1.0",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
@@ -11,13 +12,24 @@
     "dev": "tsup src/index.ts --format esm,cjs --dts --watch",
     "lint": "eslint src/**/*.ts* --fix"
   },
-  "keywords": [],
-  "author": "",
-  "license": "MIT",
   "devDependencies": {
     "@guipmdev-ignite-ui/ts-config": "*",
     "@guipmdev-ignite-ui/eslint-config": "*",
     "tsup": "^7.2.0",
     "typescript": "^5.1.6"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guipmdev/ignite-design-system.git"
+  },
+  "bugs": {
+    "url": "https://github.com/guipmdev/ignite-design-system/issues"
+  },
+  "author": {
+    "name": "Guilherme Preveda Milék",
+    "email": "guipmdev@gmail.com",
+    "url": "https://guipm.dev/"
+  },
+  "license": "MIT",
+  "homepage": "https://guipmdev.github.io/ignite-design-system/"
 }

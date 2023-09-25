@@ -1,11 +1,24 @@
 {
   "name": "@guipmdev-ignite-ui/eslint-config",
-  "version": "1.0.0",
-  "license": "MIT",
-  "private": true,
+  "description": "",
   "main": "index.js",
+  "private": true,
   "devDependencies": {
     "@rocketseat/eslint-config": "^2.1.0",
     "eslint": "^8.48.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guipmdev/ignite-design-system.git"
+  },
+  "bugs": {
+    "url": "https://github.com/guipmdev/ignite-design-system/issues"
+  },
+  "author": {
+    "name": "Guilherme Preveda Milék",
+    "email": "guipmdev@gmail.com",
+    "url": "https://guipm.dev/"
+  },
+  "license": "MIT",
+  "homepage": "https://guipmdev.github.io/ignite-design-system/"
 }
